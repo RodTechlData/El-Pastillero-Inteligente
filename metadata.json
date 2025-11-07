@@ -1,0 +1,5 @@
+{
+  "name": "El Pastillero Inteligente",
+  "description": "Una aplicación web para ayudar a administrar pacientes, medicamentos y signos vitales. Permite un seguimiento detallado de los tratamientos médicos y la salud de los pacientes de forma sencilla e intuitiva.",
+  "requestFramePermissions": []
+}
